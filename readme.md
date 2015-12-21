@@ -67,7 +67,7 @@ Here's a sample card, with descriptions of its various parts.
 
 And that's really all you need to know.  Run with it!
 
-Some more samples from our current stockpile (if I don't name an artist, it was me):
+## Some more samples
 
 
 
